@@ -1,15 +1,8 @@
 # Car manufacturing
 
-Make sure you have committed all your current changes on your current branch and have pushed to Github.
+This exercise looks at prototypes, and inheritance with objects formed from constructor functions.
 
-```bash
-cd /vagrant/exercises
-git checkout master
-git checkout -b cars
-mkdir cars && cd $_
-```
-
-```js
+## Instructions
 /*
   .....  YOUR MISSION  .....
   1. Author functions that define the Make

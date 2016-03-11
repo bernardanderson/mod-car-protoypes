@@ -3,6 +3,8 @@
 This exercise looks at prototypes, and inheritance with objects formed from constructor functions.
 
 ## Instructions
+
+```
 /*
   .....  YOUR MISSION  .....
   1. Author functions that define the Make
